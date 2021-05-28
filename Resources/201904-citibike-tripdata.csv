@@ -1,4 +1,5 @@
-﻿378,13:02.5,491,19:21.2,E 24 St & Park Ave S,40.74096374,485,-73.98602213,W 37 St & 5 Ave,40.75038009,-73.98338988,35084,Subscriber,1968,1
+﻿tripduration,starttime,start station id,stoptime,start station name,start station latitude,end station id,start station longitude,end station name,end station latitude,end station longitude,bikeid,usertype,birth year,gender
+378,13:02.5,491,19:21.2,E 24 St & Park Ave S,40.74096374,485,-73.98602213,W 37 St & 5 Ave,40.75038009,-73.98338988,35084,Subscriber,1968,1
 325,14:48.3,3235,20:13.3,E 41 St & Madison Ave,40.75216528,362,-73.97992194,Broadway & W 37 St,40.75172632,-73.98753523,35052,Subscriber,1983,1
 1246,20:04.8,3511,40:51.4,Adam Clayton Powell Blvd & W 115 St,40.802535,281,-73.9532423,Grand Army Plaza & Central Park S,40.7643971,-73.97371465,34362,Subscriber,1984,1
 614,22:37.9,3163,32:52.4,Central Park West & W 68 St,40.7734066,362,-73.97782542,Broadway & W 37 St,40.75172632,-73.98753523,35327,Subscriber,1963,1
