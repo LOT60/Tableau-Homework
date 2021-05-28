@@ -4,7 +4,7 @@ Citi Bike Analytics
 ![citi-bike-station-bikes](https://user-images.githubusercontent.com/74845016/119913578-df892600-bf23-11eb-9a54-5e959178195e.jpg)
 
 
-* Before You Begin
+# Before You Begin
 
 *  This assignment will be saved to your Tableau Public account rather than GitHub.
 
@@ -16,7 +16,7 @@ Citi Bike Analytics
 
 *  When you are finished with your assignment, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis.
 
-* Task
+# Task
 
 *  Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
