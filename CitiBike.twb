@@ -982,8 +982,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='8' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='7' param='vert' w='98400' x='800' y='1000' />
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='24' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='23' param='vert' w='84000' x='8000' y='8000' />
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -1025,7 +1025,7 @@
     </dashboard>
   </dashboards>
   <windows source-height='30'>
-    <window class='worksheet' name='Top 20 most used Bikes ￼￼￼'>
+    <window class='worksheet' maximized='true' name='Top 20 most used Bikes ￼￼￼'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1100,7 +1100,7 @@
       </viewpoint>
       <simple-id uuid='{3A614FF4-DEA5-4C2C-805C-F9EEFE8BFD20}' />
     </window>
-    <window class='worksheet' maximized='true' name='Customer Vs. Subscriber'>
+    <window class='worksheet' name='Customer Vs. Subscriber'>
       <cards>
         <edge name='left'>
           <strip size='160'>

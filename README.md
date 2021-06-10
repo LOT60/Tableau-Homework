@@ -24,3 +24,23 @@ Citi Bike Analytics
 datasets from different periods.
 
 *  The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
+
+#  Findings
+
+
+* Hot Spots
+
+    ![HotSpot](https://user-images.githubusercontent.com/74845016/121449130-ce4a0b80-c95e-11eb-92da-fe284ca68909.PNG)
+
+   * Most popular area to ride CitiBikes at any time of the day.
+
+* Customer Vs. Subscriber 
+
+    ![CustomerVSubscriber](https://user-images.githubusercontent.com/74845016/121449080-a9ee2f00-c95e-11eb-88c7-a56d6aaf2797.PNG)
+
+  * As you can see in the graph Citi Bank customers were in the lead in early April. Subscriber riders took a seat back. 
+
+* Dashboard 
+
+    ![Dashboard](https://user-images.githubusercontent.com/74845016/121449501-8ecfef00-c95f-11eb-902d-431b10586365.PNG)
+
